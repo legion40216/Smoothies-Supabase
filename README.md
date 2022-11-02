@@ -27,7 +27,7 @@
 
 ### Links
 
-- Live Site URL: https://fluffy-pithivier-ce7ffc.netlify.app/17
+- Live Site URL: https://fluffy-pithivier-ce7ffc.netlify.app
 
 ## My process
 
